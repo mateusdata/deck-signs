@@ -1,0 +1,16 @@
+.lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 170vh;
+    margin: 0 auto;
+    box-sizing: border-box;
+   
+}
+
+
+@media only screen and (max-width:1100px){
+    .lista {
+        width: 100%;
+    }
+  }

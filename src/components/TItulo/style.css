@@ -1,0 +1,13 @@
+
+.box{
+    padding: 10px;
+    align-items: center;
+    background-color: #4d538c;
+}
+.texto{
+    font-size: 32px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: inherit;
+    text-align: center;
+}
